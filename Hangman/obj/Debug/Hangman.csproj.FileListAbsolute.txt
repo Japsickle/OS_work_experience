@@ -1,0 +1,8 @@
+C:\Users\cdavis\source\repos\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\cdavis\source\repos\Hangman\bin\Debug\Hangman.exe
+C:\Users\cdavis\source\repos\Hangman\bin\Debug\Hangman.pdb
+C:\Users\cdavis\source\repos\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\cdavis\source\repos\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\cdavis\source\repos\Hangman\obj\Debug\Hangman.exe
+C:\Users\cdavis\source\repos\Hangman\obj\Debug\Hangman.pdb
+C:\Users\cdavis\source\repos\Hangman\bin\Debug\Wordlist.txt
