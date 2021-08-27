@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pizza Calculator Console", "Pizza Calculator Console\Pizza Calculator Console.csproj", "{B27B10EC-7384-4327-8434-0956B0FE4C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalculatorTests", "PizzaCalculatorTests\PizzaCalculatorTests.csproj", "{3F356163-849D-4DF1-8C3F-9C260AB9DD95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27B10EC-7384-4327-8434-0956B0FE4C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27B10EC-7384-4327-8434-0956B0FE4C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27B10EC-7384-4327-8434-0956B0FE4C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27B10EC-7384-4327-8434-0956B0FE4C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F356163-849D-4DF1-8C3F-9C260AB9DD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F356163-849D-4DF1-8C3F-9C260AB9DD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F356163-849D-4DF1-8C3F-9C260AB9DD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F356163-849D-4DF1-8C3F-9C260AB9DD95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96BAF1F9-3F6B-4801-9645-EC4C660820CF}
+	EndGlobalSection
+EndGlobal
